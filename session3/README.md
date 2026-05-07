@@ -13,8 +13,8 @@ Finished parts:
 
 Pair work:
 
-- Challenge 1-4: add partner name here
-- Challenge 5-6: individual work
+- Challenge 1-4: completed as pair-programming practice in class
+- Challenge 5-6: completed individually
 
 Notes:
 
